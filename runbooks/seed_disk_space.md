@@ -1,3 +1,14 @@
+---
+id: seed_disk_space
+type: runbook
+state: seed
+signature: null
+tags: [disk, storage, backup, recorder]
+integrations: [all]
+ha_version_min: null
+contributed_at: "2026-09-15"
+---
+
 # HA Disk Space Investigation
 
 Trigger: disk space low, HA disk usage, backups taking too much space, recorder DB large

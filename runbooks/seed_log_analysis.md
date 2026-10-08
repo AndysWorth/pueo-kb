@@ -1,7 +1,12 @@
 ---
-trigger_pattern: "analyze log lines from [time range]|what happened in the log|log analysis [HH:MM]|Analyze the log from|what happened between|sparkline|log window"
-recommended_tools: [summarize_log_window, search_log, read_pueo_log]
+id: seed_log_analysis
+type: runbook
 state: seed
+signature: null
+tags: [log, analysis, triage]
+integrations: [all]
+ha_version_min: null
+contributed_at: "2026-09-15"
 ---
 
 # Runbook: Time-Range Log Analysis

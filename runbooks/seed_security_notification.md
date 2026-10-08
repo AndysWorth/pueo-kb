@@ -1,3 +1,14 @@
+---
+id: seed_security_notification
+type: runbook
+state: seed
+signature: null
+tags: [security, login, http_login]
+integrations: [all]
+ha_version_min: null
+contributed_at: "2026-09-15"
+---
+
 # Security Notification Investigation
 
 Trigger: failed login notification, suspicious device, unknown IP, http_login alert

@@ -1,3 +1,14 @@
+---
+id: seed_integration_error
+type: runbook
+state: seed
+signature: null
+tags: [integration, entity, api]
+integrations: [all]
+ha_version_min: null
+contributed_at: "2026-09-15"
+---
+
 # Integration or Entity Error Investigation
 
 Trigger: integration failing, sensor unavailable, entity error, connection error, API outage

@@ -1,3 +1,14 @@
+---
+id: seed_pueo_log
+type: runbook
+state: seed
+signature: null
+tags: [pueo, agent, loop]
+integrations: [all]
+ha_version_min: null
+contributed_at: "2026-09-15"
+---
+
 # Pueo Log Investigation
 
 Trigger: errors in Pueo itself, stream resets, loop crashes, agent loop failures, Pueo not working

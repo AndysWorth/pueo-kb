@@ -1,3 +1,14 @@
+---
+id: seed_update_analysis
+type: runbook
+state: seed
+signature: null
+tags: [update, breaking_change, ha_os]
+integrations: [all]
+ha_version_min: null
+contributed_at: "2026-09-15"
+---
+
 # Runbook: HA Update Breaking-Change Analysis
 
 ## When to use
