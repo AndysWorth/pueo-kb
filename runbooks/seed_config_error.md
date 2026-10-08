@@ -1,3 +1,14 @@
+---
+id: seed_config_error
+type: runbook
+state: seed
+signature: null
+tags: [config, yaml, validation]
+integrations: [all]
+ha_version_min: null
+contributed_at: "2026-09-15"
+---
+
 # HA Configuration Error Investigation
 
 Trigger: HA config invalid, yaml error, ha core check failing, configuration.yaml problem

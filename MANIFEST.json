@@ -3,7 +3,9 @@
     "id": "seed_config_error",
     "type": "runbook",
     "path": "runbooks/seed_config_error.md",
-    "sha256": "2d9000ad14e4f9889c4e2c1629961a6d64a6491ca3a1d791e320c9368251f78f",
+    "sha256": "118fb1d437b187b82d8251d7c772d2af2e7d06c44f904aecb87c576c609e2687",
+    "state": "seed",
+    "signature": null,
     "tags": [
       "config",
       "yaml",
@@ -14,14 +16,20 @@
     ],
     "ha_version_min": null,
     "ha_version_max": null,
-    "quality_score": 1.0,
-    "added_at": "2026-09-15"
+    "contributed_at": "2026-09-15",
+    "community_stats": {
+      "successes": 0,
+      "failures": 0,
+      "instances": 0
+    }
   },
   {
     "id": "seed_disk_space",
     "type": "runbook",
     "path": "runbooks/seed_disk_space.md",
-    "sha256": "607f0b2c74e564f17925a128450753341e7a3b5278a4b25abf973759c1d8ffd5",
+    "sha256": "14eeacb884be22d3f9d4b0017d7fc438eb8538289a46b9ce7c00180e2ec91de1",
+    "state": "seed",
+    "signature": null,
     "tags": [
       "disk",
       "storage",
@@ -33,14 +41,20 @@
     ],
     "ha_version_min": null,
     "ha_version_max": null,
-    "quality_score": 1.0,
-    "added_at": "2026-09-15"
+    "contributed_at": "2026-09-15",
+    "community_stats": {
+      "successes": 0,
+      "failures": 0,
+      "instances": 0
+    }
   },
   {
     "id": "seed_integration_error",
     "type": "runbook",
     "path": "runbooks/seed_integration_error.md",
-    "sha256": "7a3950c0faf72b5dc7eae1a1036e65a67bdc5856582861cd1ced4d1dd62ab7d2",
+    "sha256": "27c54fcac777a04e02e7fff6b768cf80774753e75c9984ff80de5fccb69f306c",
+    "state": "seed",
+    "signature": null,
     "tags": [
       "integration",
       "entity",
@@ -51,14 +65,20 @@
     ],
     "ha_version_min": null,
     "ha_version_max": null,
-    "quality_score": 1.0,
-    "added_at": "2026-09-15"
+    "contributed_at": "2026-09-15",
+    "community_stats": {
+      "successes": 0,
+      "failures": 0,
+      "instances": 0
+    }
   },
   {
     "id": "seed_log_analysis",
     "type": "runbook",
     "path": "runbooks/seed_log_analysis.md",
-    "sha256": "c6614add5e8b8b4e54d56bdb5c5d4a0a55c340df81d0ed8f0069213468aa1bcb",
+    "sha256": "d7536f4bc61a013fe40d0eee7459a1f539802a6ebcaf0f1b3274ff13caa79e63",
+    "state": "seed",
+    "signature": null,
     "tags": [
       "log",
       "analysis",
@@ -69,14 +89,20 @@
     ],
     "ha_version_min": null,
     "ha_version_max": null,
-    "quality_score": 1.0,
-    "added_at": "2026-09-15"
+    "contributed_at": "2026-09-15",
+    "community_stats": {
+      "successes": 0,
+      "failures": 0,
+      "instances": 0
+    }
   },
   {
     "id": "seed_lovelace_config",
     "type": "runbook",
     "path": "runbooks/seed_lovelace_config.md",
-    "sha256": "b7996d2bd9af385037b9a11dbe913753e5f263fe359b77e838f8764ed402e512",
+    "sha256": "37e6574bab085cd850a6462bc2a1a2d4d64cfca5b668853ffa51bfc9d5fef947",
+    "state": "seed",
+    "signature": null,
     "tags": [
       "lovelace",
       "dashboard",
@@ -87,14 +113,20 @@
     ],
     "ha_version_min": null,
     "ha_version_max": null,
-    "quality_score": 1.0,
-    "added_at": "2026-09-15"
+    "contributed_at": "2026-09-15",
+    "community_stats": {
+      "successes": 0,
+      "failures": 0,
+      "instances": 0
+    }
   },
   {
     "id": "seed_notification_analysis",
     "type": "runbook",
     "path": "runbooks/seed_notification_analysis.md",
-    "sha256": "ba187f656befd0d417e631e5c36257e28556b137fd7fba00068b2dcf106f45be",
+    "sha256": "a417e0dbaee489851e495e1159c9a81dfa8eb43be29d61ecd3b1fa8f1928c15d",
+    "state": "seed",
+    "signature": null,
     "tags": [
       "notification",
       "persistent"
@@ -104,14 +136,20 @@
     ],
     "ha_version_min": null,
     "ha_version_max": null,
-    "quality_score": 1.0,
-    "added_at": "2026-09-15"
+    "contributed_at": "2026-09-15",
+    "community_stats": {
+      "successes": 0,
+      "failures": 0,
+      "instances": 0
+    }
   },
   {
     "id": "seed_pueo_log",
     "type": "runbook",
     "path": "runbooks/seed_pueo_log.md",
-    "sha256": "ef9b6a59607cb2d0fab4e5735482ee430d2901bb15b3b6474838483f2b8f98a1",
+    "sha256": "e412290ef636429e760960a843dddca1d81e970d111c0fe4a384005473c9c3ee",
+    "state": "seed",
+    "signature": null,
     "tags": [
       "pueo",
       "agent",
@@ -122,14 +160,20 @@
     ],
     "ha_version_min": null,
     "ha_version_max": null,
-    "quality_score": 1.0,
-    "added_at": "2026-09-15"
+    "contributed_at": "2026-09-15",
+    "community_stats": {
+      "successes": 0,
+      "failures": 0,
+      "instances": 0
+    }
   },
   {
     "id": "seed_repair_issue",
     "type": "runbook",
     "path": "runbooks/seed_repair_issue.md",
-    "sha256": "c467a5a6f59e725dd9509cb937f7c9eae9e35d082caa6505680a123e5b78570b",
+    "sha256": "ec335aade29cad94807e5bc85581567e72fe7f6efe121f57957d59e3cfdace3f",
+    "state": "seed",
+    "signature": null,
     "tags": [
       "repair",
       "ha_repairs"
@@ -139,14 +183,20 @@
     ],
     "ha_version_min": null,
     "ha_version_max": null,
-    "quality_score": 1.0,
-    "added_at": "2026-09-15"
+    "contributed_at": "2026-09-15",
+    "community_stats": {
+      "successes": 0,
+      "failures": 0,
+      "instances": 0
+    }
   },
   {
     "id": "seed_security_notification",
     "type": "runbook",
     "path": "runbooks/seed_security_notification.md",
-    "sha256": "a2f318f7778d570d7b865c78bab2c5b81a2288830c36e07b93077776d8c92024",
+    "sha256": "5f4e4bd7b45d39ba53f2b62b2673d7302c2b7dff73f5da517f2a4d0e1ba804b7",
+    "state": "seed",
+    "signature": null,
     "tags": [
       "security",
       "login",
@@ -157,14 +207,20 @@
     ],
     "ha_version_min": null,
     "ha_version_max": null,
-    "quality_score": 1.0,
-    "added_at": "2026-09-15"
+    "contributed_at": "2026-09-15",
+    "community_stats": {
+      "successes": 0,
+      "failures": 0,
+      "instances": 0
+    }
   },
   {
     "id": "seed_update_analysis",
     "type": "runbook",
     "path": "runbooks/seed_update_analysis.md",
-    "sha256": "7f3ad47cd9145261f7c3e15df3469b3a1183c6afc308ce2d41ecae5143216ab0",
+    "sha256": "7f9faf491d34a0797544ff3334781da82a922a15c53d33f39476f7ff35afc4e6",
+    "state": "seed",
+    "signature": null,
     "tags": [
       "update",
       "breaking_change",
@@ -175,7 +231,11 @@
     ],
     "ha_version_min": null,
     "ha_version_max": null,
-    "quality_score": 1.0,
-    "added_at": "2026-09-15"
+    "contributed_at": "2026-09-15",
+    "community_stats": {
+      "successes": 0,
+      "failures": 0,
+      "instances": 0
+    }
   }
 ]

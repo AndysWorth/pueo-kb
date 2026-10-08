@@ -1,3 +1,14 @@
+---
+id: seed_repair_issue
+type: runbook
+state: seed
+signature: null
+tags: [repair, ha_repairs]
+integrations: [all]
+ha_version_min: null
+contributed_at: "2026-09-15"
+---
+
 # HA Repair Issue Investigation Runbook
 
 This runbook covers investigation of Home Assistant repair issues surfaced via the repairs panel.

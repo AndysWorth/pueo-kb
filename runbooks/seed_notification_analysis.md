@@ -1,3 +1,14 @@
+---
+id: seed_notification_analysis
+type: runbook
+state: seed
+signature: null
+tags: [notification, persistent]
+integrations: [all]
+ha_version_min: null
+contributed_at: "2026-09-15"
+---
+
 # HA Notification Investigation Runbook
 
 This runbook covers investigation of Home Assistant persistent notifications.

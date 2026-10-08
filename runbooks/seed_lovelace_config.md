@@ -1,3 +1,14 @@
+---
+id: seed_lovelace_config
+type: runbook
+state: seed
+signature: null
+tags: [lovelace, dashboard, entity]
+integrations: [all]
+ha_version_min: null
+contributed_at: "2026-09-15"
+---
+
 # Runbook: Lovelace unregistered entity investigation
 
 ## Trigger
