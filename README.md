@@ -2,7 +2,7 @@
 
 [![Validate](https://github.com/AndysWorth/pueo-kb/actions/workflows/validate.yml/badge.svg)](https://github.com/AndysWorth/pueo-kb/actions/workflows/validate.yml)
 [![Build manifest](https://github.com/AndysWorth/pueo-kb/actions/workflows/build-manifest.yml/badge.svg)](https://github.com/AndysWorth/pueo-kb/actions/workflows/build-manifest.yml)
-[![License: LGPL-3.0](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Federated runbook library for [Pueo](https://github.com/AndysWorth/pueo), a local
 privacy-first agent that monitors and self-heals Home Assistant instances.
@@ -56,4 +56,4 @@ evidence file format, and submission process.
 
 ## License
 
-GNU Lesser General Public License v3.0 — see [LICENSE](LICENSE).
+MIT — see [LICENSE](LICENSE).
